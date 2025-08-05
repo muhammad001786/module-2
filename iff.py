@@ -7,3 +7,4 @@ if(i==13):
     else:
         print("i is greater than 12 and smaller than 25")
         
+        
